@@ -41,17 +41,17 @@ Once I got to the hospital, it was clear why there wasn’t really a diagnosis. 
 I went to see him and another boy from the centre who was spending the night with him, and he seemed fairly well actually, although he was deaf and dumb which complicates finding out what’s actually wrong. But, it was suggested by someone - I’m not entirely sure who as there wasn’t anyone who could tell me anything when I was there - that he spend the night there. 
 The nurse told me it was unethical for her to tell me anything as she wasn’t the doctor. This wasn’t something I particularly understood, but for now I’ll put that down to my lack of knowledge about medical ethics rather than anything else. Just for good measure, he was also given antibiotics, something which seems to be very common Kenya (and India for that matter, from my experience) and not necessarily great in the longer term.
 
+![My Bike and I](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/8.jpg)
+
 ####Hell’s Gate 
 
 Hell’s gate isn’t really where I’d like to end, I’d be a little disappointed with the life I’d led if that ends up being the case. Fortunately, this time I was only at Hell’s Gate National Park, which is definitely a place well worth visiting! 
 
-![My Bike and I](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/8.jpg)
-
 We get one day off per week, and I chose to visit here as everyone had been telling me how nice it was. Apparently much of the scenery within the Lion King was modelled on	 the park. It didn’t dissapoint. You go into the park on foot, using a cycle or by car. I rented a cycle at the gate and began my journey, there are a few roads within the park, but there’s one main one that takes you from the gate to the other side. Although my cycle looked pretty beat up, it rode quite well!
 
-It was quite surreal cycling along being a few metres from giraffe, and zebras amongst other animals. Gazelles seemed to be more skittish and stayed a little further away from the road. At the other side there’s a gorge that was forged about 20 years ago by an eruption of the adjacent Mount Longonot. Walking through there with my lovely guide Richard was, well, very slippery but also beautiful. There wasn’t a great deal of water as apparently a company – KenGen - has been drilling to take the water from the hot springs to create electricity. I think’s it a real shame despite the fact it makes walking through the gorge much easier as there’s less water running through the gorge. Although even the walk we took was a little treacherous – not for my mum or dad I think!
-
 ![Zebra](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/9.jpg)
+
+It was quite surreal cycling along being a few metres from giraffe, and zebras amongst other animals. Gazelles seemed to be more skittish and stayed a little further away from the road. At the other side there’s a gorge that was forged about 20 years ago by an eruption of the adjacent Mount Longonot. Walking through there with my lovely guide Richard was, well, very slippery but also beautiful. There wasn’t a great deal of water as apparently a company – KenGen - has been drilling to take the water from the hot springs to create electricity. I think’s it a real shame despite the fact it makes walking through the gorge much easier as there’s less water running through the gorge. Although even the walk we took was a little treacherous – not for my mum or dad I think!
 
 After my trip in Hell’s gate, I also spent a little time at the Lake Naivasha, which neighbours the park. On a boat ride, I once again saw lots of Hippos and birds, this time up pretty close up. When one hippo starting opening its jaws the boat driver decided it was probably a good time to move back a little. In the middle of the lake there’s an island with gazelles, wilderbeest, water buffalos, all of which I got a good look at from the boat. 
 
