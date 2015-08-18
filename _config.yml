@@ -1,13 +1,22 @@
 # Site settings
+
+timezone:       Europe/London # eg. Asia/Kathmandu
+locale:         en_gb # eg. en_us
 title:       Suhail's Blog
 email:       suhailenator@gmail.com
 author:      Suhail Aslam
-description: "..."
+description: "A blog about my travels"
 baseurl:     ""
-url:         "http://suhailenator.github.io"
+url:         "http://suhail.io"
+author:
+  facebook:     suhail.aslam
+  twitter:      suhail_aslam
+fb_admins:      623849523
+fb_appid:       953285788069582
+
 
 # Google analytics
-google_analytics:
+google_analytics: A-66360934-1
 
 # Optional features
 animated:           true
