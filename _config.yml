@@ -8,9 +8,6 @@ author:      Suhail Aslam
 description: "A blog about my travels"
 baseurl:     ""
 url:         "http://suhail.io"
-author:
-  facebook:     suhail.aslam
-  twitter:      suhail_aslam
 fb_admins:      http://facebook.com/suhail.aslam
 fb_appid:       953285788069582
 
