@@ -3,7 +3,7 @@ layout: post
 title: Out and About
 summary: More about the centre and what's kept me busy.
 excerpt: "More about the centre and what's kept me busy."
-thumbnail: https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/8.jpg
+thumbnail: (https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/6.jpg)
 date: 2015-08-18
 last_modified_at: 2015-08-18
 categories: kenya
