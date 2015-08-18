@@ -2,6 +2,11 @@
 layout: post
 title: First week in Kenya
 summary: A little something I wrote about my first week volunteering in Kenya.
+<<<<<<< HEAD
+excerpt: "A little something I wrote about my first week volunteering in Kenya"
+=======
+description: A little something I wrote about my first week volunteering in Kenya.
+>>>>>>> parent of 45408fd... let's see
 date: 2015-08-11
 categories: kenya
 ---
@@ -18,13 +23,13 @@ At the centre, I was shown around by Julie, the center director and over the com
 
 ###Pokot
 
-Having been at the centre for three days, I was lucky enough to be offered the opportunity to go to Pokot. All the children in the centre are Pokot, one of the many tribes in Kenya; every so often the papers for the children needs to be updated and this required signatures and information from Chiefs and parents in the area. As well as that IHF gets donations for famine feeds, many of the people in Pokot are extremely impoverished and thus from time to time they buy food (maize wheat and animals e.g. goats and chicken) and distribute to a people. 
+Having been at the centre for three days, I was lucky enough to be offered the opportunity to go to Pokot. All the children in the centre are Pokot, one of the many tribes in Kenya; every so often the papers for the children needs to be updated and this required signatures and information from Chiefs and parents in the area. As well as that IHF gets donations for famine feeds, many of the people in Pokot are extremely impoverished and thus from time to time they buy food (maize wheat and animals e.g. goats and chicken) and distribute to a people. My official role would be to look after one of the girl's at the centre who suffered from Schizophrenia, we needed to make sure she took her medication. 
 
 The Journey to Pokot was long! The main means of public transport in Kenya is the Matatu, a small van, which in England would probably fit 8 or 9 people, but as I’ve realised 13 isn’t uncommon in Kenya. Though, on the whole the first leg of the journey was fairly pleasant, the roads aren’t great but I was distracted talking to the person next to me, who was telling me about Kenya, its politics and people. We had to wait for a few hours in the market town in Marigat for the next bus. The next journey was much less pleasant, the bus was big but very overcrowded, the aisle was full with people, bags of goods, bread, suitcases, the only thing missing really was live animals. 
 
 ![Errastus](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/3.jpg)
 
-But, a few hours and a bumpy journey later – we reached Pokot. When we got there we were greeted by a few guys from the centre, some who had now left, and others who were just in Pokot for a few days. Also, at the roadside was Kamama’s mother, there to greet us! Kamama was very happy as I would be if I was seeing my family for the first time in over 2 years. We then set off to Nginyang, a short walk from the where bus stopped. It was almost sunset and to me the area looked stunning; on the way there we also bought our first goats to be given out. 
+But, a few hours and a bumpy journey later – we reached Pokot. When we got there we were greeted by a few guys from the centre, some who had now left, and others who were just in Pokot for a few days. Also, at the roadside was the girl's mother, there to greet us! She was very happy as I would be if I was seeing my family for the first time in over 2 years. We then set off to Nginyang, a short walk from the where bus stopped. It was almost sunset and to me the area looked stunning; on the way there we also bought our first goats to be given out. 
 
 ![Nginyang](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/2.jpg)
 
