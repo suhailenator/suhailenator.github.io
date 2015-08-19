@@ -8,7 +8,7 @@ date: 2015-08-18
 last_modified_at: 2015-08-18
 categories: kenya
 ---
-I’m now over half way through my stay here and I’ll repeat the old cliché, I can’t believe how fast the time has gone. I only really have another week left at the centre. Let’s hope they’re as good as the first few weeks. 
+I’m now over half way through my stay here and I’ll repeat the old cliché, I can’t believe how fast the time has gone. I only really have another week left at the centre. Let’s hope it's as good as the first few weeks. 
 
 ![The centre](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/6.jpg)
 
