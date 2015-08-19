@@ -2,11 +2,8 @@
 layout: post
 title: First week in Kenya
 summary: A little something I wrote about my first week volunteering in Kenya.
-<<<<<<< HEAD
-excerpt: "A little something I wrote about my first week volunteering in Kenya"
-=======
-description: A little something I wrote about my first week volunteering in Kenya.
->>>>>>> parent of 45408fd... let's see
+excerpt: "A little something I wrote about my first week volunteering in Kenya
+description: A little something I wrote about my first week volunteering in Kenya
 date: 2015-08-11
 categories: kenya
 ---
