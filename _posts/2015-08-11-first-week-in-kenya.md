@@ -1,10 +1,11 @@
 ---
 layout: post
-title: First week in Kenya
+title: First Week in Kenya
 summary: A little something I wrote about my first week volunteering in Kenya.
-excerpt: "A little something I wrote about my first week volunteering in Kenya
-description: A little something I wrote about my first week volunteering in Kenya
+excerpt: "A little something I wrote about my first week volunteering in Kenya."
+thumbnail: https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/1.jpg
 date: 2015-08-11
+last_modified_at: 2015-08-14
 categories: kenya
 ---
 
@@ -46,5 +47,4 @@ On the way back – I left earlier than the others who stayed a few days longer 
 
 ![Baringo](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/5.jpg)
 
-###Hakuna Matata!	
-
+###Hakuna Mata
