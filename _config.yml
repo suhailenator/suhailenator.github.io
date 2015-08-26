@@ -13,7 +13,7 @@ fb_appid:       953285788069582
 
 
 # Google analytics
-google_analytics: A-66360934-1
+google_analytics: UA-66360934-1
 
 # Optional features
 animated:           true
