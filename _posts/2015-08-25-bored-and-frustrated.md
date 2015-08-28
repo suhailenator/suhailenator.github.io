@@ -48,6 +48,6 @@ Another thing absent from the centre is washing machines, which means everyone h
 
 On my day off this week, I took a short trip to Lake Nakuru which is a 10-minute drive from the centre of town. Although I say Lake Nakuru, most of the time was spent driving around the park where there were many zebras, giraffes and waterbucks amongst other animals. The lake in the centre looked beautiful especially at some of the vantage points up high.  A particular highlight was seeing the flamingos at the lakeshore. It’s an amazing sight when they all fly together in formation! There are also a few lions roaming about in the park but unfortunately none had been sighted that day – hopefully I’ll see a few on my trip next week! 
 
-![Zebra](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/4.jpg)
+![Zebra](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/14.jpg)
 
 That basically bought the week to an end, I’m really not looking forward to leaving, but let’s not talk about that now.
